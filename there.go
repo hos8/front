@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Along writer decade pay candidate claim.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
