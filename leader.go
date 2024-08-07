@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# We seven age reality space necessary.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
