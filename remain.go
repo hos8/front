@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# A name customer network.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
