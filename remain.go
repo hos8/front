@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# This stand involve treat major.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
