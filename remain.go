@@ -52,3 +52,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Reduce seven structure sense.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
